@@ -16,5 +16,5 @@ int main(){
     cout << "Input the radius of the sphere: ";
     cin >> r;
     result = volumeSphere(r);
-    cout << "The volume of the sphere is: " << result;
+    cout << "The volume of the sphere is: " << result << "\n";
 }
